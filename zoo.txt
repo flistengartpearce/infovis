@@ -1,0 +1,4 @@
+Stem-and-Leaf Plots
+Parallel Coordinates
+Graduated Symbol Maps
+Adjacency Diagrams
